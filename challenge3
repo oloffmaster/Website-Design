@@ -1,4 +1,0 @@
-def tripleprint(string):
-  print(string*3)
-
-tripleprint('hello')
